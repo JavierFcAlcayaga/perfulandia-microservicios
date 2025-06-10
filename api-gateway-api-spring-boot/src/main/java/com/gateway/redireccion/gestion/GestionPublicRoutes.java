@@ -5,13 +5,7 @@ public class GestionPublicRoutes {
     // Rutas públicas GET (visibles sin token)
     public static final String[] GESTION_PUBLIC_GET = {
         "/api/proxy/usuarios",
-        "/api/proxy/usuarios/",
-        "/api/proxy/inventarios",
-        "/api/proxy/inventarios/",
-        "/api/proxy/carrito",
-        "/api/proxy/carrito/",
-        "/api/proxy/ventas",
-        "/api/proxy/ventas/",    
+        "/api/proxy/usuarios/",   
         "/api/proxy/reportes/ventas-productos",
         "/api/proxy/reportes/ventas-productos/",
         "/api/proxy/ventas-productos",
